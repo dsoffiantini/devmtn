@@ -10,4 +10,8 @@ journal.push(mood);
 
 var git = "fun!";
 
-jorunal.push(git);
+journal.push(git);
+
+var new = "new";
+
+journal.push(new);
